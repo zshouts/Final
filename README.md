@@ -19,5 +19,5 @@ My program works like any other calculator, you input your numbers by using the 
 ![SS10](https://user-images.githubusercontent.com/75189383/102127773-86648480-3e12-11eb-8072-5eb11ae77eaf.png)
 ![SS11](https://user-images.githubusercontent.com/75189383/102127776-8795b180-3e12-11eb-8e57-d7aaf97ec737.png)
 
-#Personal Reflection
+# Personal Reflection
 I had a lot of fun with this project at first, but once I got into the middle of it I was starting to have troubles and things weren't working the way I thought they were going to in my head so I got stuck. I ended up spending a lot of time just trying to figure out how to the change the colors on my buttons because that wasn't included in the base breezypythongui module. I got to a point where I was just trying different things to see if they worked and eventually I found a way to get everything to come full circle and I ended up really enjoying myself. It turned out the way I wanted it to even after doubting my knowledge. 
